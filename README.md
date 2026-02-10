@@ -1,21 +1,27 @@
-# Hi, I'm Yash Srivastava 👋
+# 👋 Yash Srivastava
 
 🎓 Computer Science Student  
-💻 Practicing DSA using C++  
-🚀 Aspiring Software Engineer
+💻 DSA in C++ | Problem Solving  
+🚀 Aspiring Software Engineer  
 
-## 🛠 Skills
+---
+
+## 🧠 What I’m Working On
+- Daily LeetCode & HackerRank practice
+- Strong fundamentals in DSA
+- Writing clean and optimized C++ code
+
+---
+
+## 🛠 Technical Skills
 - C++
-- Data Structures & Algorithms
 - STL
+- Data Structures & Algorithms
 - Git & GitHub
-- Basics of JavaScript
+- Basic JavaScript
 
-## 📌 Coding Practice
+---
+
+## 📊 Coding Profiles
 - LeetCode
 - HackerRank
-
-## 🎯 Current Focus
-- Daily DSA practice
-- Writing optimized and clean C++ code
-- Improving problem-solving skills
